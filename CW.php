@@ -21,19 +21,7 @@
         <button class="btn"><a href="monsite/contact.html"> CONTACT </a></button>
     </div>
 
-       <img src="monsite/css/voitur.jpg" width="1260px" height="400 px">
-      
-    </div>
-   </header>
-     <div id="content">
-      <div class="leftbox">
-         <h2 style="text-align: center;">  Notre gamme de location de voiture</h2>
-          <table border="3"
-           cellpadding="1"
-           cellspacing="1">
-           
-                                            </div>
-                                            </div>
+  
         
          
 </body>
